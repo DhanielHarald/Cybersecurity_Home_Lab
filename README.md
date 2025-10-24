@@ -27,10 +27,8 @@ Meu laboratório é composto pelas seguintes máquinas:
 
 * **Sistema:** **Metasploitable 2**
     * **Propósito:** Um servidor Linux intencionalmente vulnerável, usado como alvo principal para treinar enumeração e exploração de serviços (ex: FTP, SSH, web).
-* **Sistema:** **[Nome da sua outra VM, ex: Windows 7 não-atualizado]**
+* **Sistema:** **[Windows 7 não-atualizado]**
     * **Propósito:** Simular uma estação de trabalho de usuário final desatualizada, ideal para praticar exploração de cliente e escalação de privilégio no Windows.
-* **Sistema:** **[Adicione outras VMs que você criar]**
-    * **Propósito:** [Explique o propósito]
 
 ---
 
